@@ -18,8 +18,16 @@ use Carbon;
 class MainController extends Controller
 {
     
-    public function sample(){
-    
+	public function home(){
+        return view('main.home');
+    }
+
+    public function dashboard(){
+        return view('main.dashboard');
+    }
+
+    public function reports(){
+        return view('main.reports');
     }
 
 }
