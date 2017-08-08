@@ -18,8 +18,8 @@ use Carbon;
 class EpodController extends Controller
 {
     
-    public function sample(){
-    
+    public function epodManagement(){
+    	return view ('epod.epodManagement');
     }
 
 }

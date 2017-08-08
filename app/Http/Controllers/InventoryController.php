@@ -18,8 +18,11 @@ use Carbon;
 class InventoryController extends Controller
 {
     
-    public function sample(){
-    
+    public function inventoryManagement(){
+    	return view ('inventory.inventoryManagement');
+    }
+    public function inventoryStock(){
+    	return view ('inventory.inventoryStock');
     }
 
 }

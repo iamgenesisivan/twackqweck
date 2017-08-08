@@ -18,8 +18,14 @@ use Carbon;
 class DispatchController extends Controller
 {
     
-    public function sample(){
-    
+    public function dispatchManagement(){
+    	return view ('dispatch.dispatchManagement');
+    }
+    public function dispatchSchedule(){
+    	return view ('dispatch.dispatchSchedule');
+    }
+    public function dispatchMonitoring(){
+    	return view ('dispatch.dispatchMonitoring');
     }
 
 }

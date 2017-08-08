@@ -18,8 +18,8 @@ use Carbon;
 class AssetController extends Controller
 {
     
-    public function sample(){
-    
+    public function assetManagement(){
+    	return view('asset.assetManagement');
     }
 
 }
