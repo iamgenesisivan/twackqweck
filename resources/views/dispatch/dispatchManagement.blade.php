@@ -67,7 +67,7 @@
                             <div class="col-lg-12">
                               <div class="col-lg-6">
                                 <div class="form-group" style="text-align: center;"><br><br><br>
-                                  <img class="col-lg-12" id="blah" src="dist/img/logo.png" height="100" width="380">
+                                  <img class="col-lg-12" id="blah" src="assets/img/logo.png" height="100" width="380">
                                 </div>
                                 
                               </div>
@@ -957,7 +957,7 @@
                   <div style="display:inline-block;width:100%;overflow-y:auto;padding-top: 0; border-top: 1px dotted #8c8b8b;">
                     <ul class="timeline timeline-horizontal">
                       <li class="timeline-item">
-                        <div class="timeline-badge"><img src="dist/img/id1.jpg" style="border-radius: 20px;" width="60"></div>
+                        <div class="timeline-badge"><img src="assets/img/id1.jpg" style="border-radius: 20px;" width="60"></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">Juan Dela Cruz</h4>
@@ -969,7 +969,7 @@
                         </div>
                       </li>
                       <li class="timeline-item">
-                        <div class="timeline-badge success"><img src="dist/img/id2.jpg" style="border-radius: 20px;" width="60"></div>
+                        <div class="timeline-badge success"><img src="assets/img/id2.jpg" style="border-radius: 20px;" width="60"></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">Pedro Matigas </h4>
@@ -981,7 +981,7 @@
                         </div>
                       </li>
                       <li class="timeline-item">
-                        <div class="timeline-badge info"><img src="dist/img/id3.jpg" style="border-radius: 20px;" width="60"></div>
+                        <div class="timeline-badge info"><img src="assets/img/id3.jpg" style="border-radius: 20px;" width="60"></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">James Reid</h4>
@@ -993,7 +993,7 @@
                         </div>
                       </li>
                       <li class="timeline-item">
-                        <div class="timeline-badge danger"><img src="dist/img/id4.jpg" style="border-radius: 20px;" width="60"></div>
+                        <div class="timeline-badge danger"><img src="assets/img/id4.jpg" style="border-radius: 20px;" width="60"></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">Roberto Roberto</h4>
@@ -1005,7 +1005,7 @@
                         </div>
                       </li>
                       <li class="timeline-item">
-                        <div class="timeline-badge warning"><img src="dist/img/id5.jpg" style="border-radius: 20px;" width="60"></div>
+                        <div class="timeline-badge warning"><img src="assets/img/id5.jpg" style="border-radius: 20px;" width="60"></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">Kanor Guzman</h4>
@@ -1017,7 +1017,7 @@
                         </div>
                       </li>
                       <li class="timeline-item">
-                        <div class="timeline-badge"><img src="dist/img/id7.jpg" style="border-radius: 20px;" width="60" height="60"></div>
+                        <div class="timeline-badge"><img src="assets/img/id7.jpg" style="border-radius: 20px;" width="60" height="60"></div>
                         <div class="timeline-panel">
                           <div class="timeline-heading">
                             <h4 class="timeline-title">Jun-jun Magbanwa</h4>

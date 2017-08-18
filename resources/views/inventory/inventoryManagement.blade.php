@@ -288,7 +288,7 @@
                               <div class="col-lg-4" id="img-item" style="text-align: center; height: 370px;">
                                 <h4>Item / Product</h4>
                                 <div class="form-group">
-                                  <img class="col-lg-12" id="blah" src="dist/img/item.png" height="200">
+                                  <img class="col-lg-12" id="blah" src="assets/img/item.png" height="200">
                                   <span class="btn btn-file">
                                     <input class="required input-sm" type="file" id="imgInp" name="file">
                                   </span>
@@ -644,7 +644,7 @@
                                 <div class="col-lg-4" id="img-item" style="text-align: center; height: 410px;">
                                   <h4>Item / Product</h4>
                                   <div class="form-group">
-                                    <img class="col-lg-12" id="blah" src="dist/img/item.png" height="200">
+                                    <img class="col-lg-12" id="blah" src="assets/img/item.png" height="200">
                                     <span class="btn btn-file">
                                       <input class="required input-sm" type="file" id="imgInp" name="file">
                                     </span>
@@ -1252,7 +1252,7 @@
                         <div class="modal-body custom-modal">
                           <div class="row">
                             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                              <form style="background-image: url('dist/img/Invoice Form.jpg'); background-position: center; background-size: cover; height: 1000px;">
+                              <form style="background-image: url('assets/img/Invoice Form.jpg'); background-position: center; background-size: cover; height: 1000px;">
                                 <div class="row">
                                   <div class="form-group">
                                     <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" style="left: 365px; top: 154px;">
@@ -1347,7 +1347,7 @@
                   <!-- End of Modal -->
 
                   <div class="form-group">
-                    <button type="button" class="btn btn-default btn-block custom-btn" data-toggle="modal" data-target="#delivery"><strong>DELIVERY</strong></button>
+                    <a href="{{URL::Route('inventoryDelivery')}}"><button type="button" class="btn btn-default btn-block custom-btn" data-toggle="modal" data-target="#delivery"><strong>DELIVERY</strong></button></a>
                   </div>
 
                   <!--Delivery Modal -->
@@ -1481,7 +1481,7 @@
                                 <div class="col-lg-4" id="img-item" style="text-align: center; height: 360px;">
                                   <h4>Item / Product</h4>
                                   <div class="form-group">
-                                    <img class="col-lg-12" id="blah" src="dist/img/item.png" height="200">
+                                    <img class="col-lg-12" id="blah" src="assets/img/item.png" height="200">
                                     <span class="btn btn-file">
                                       <input class="required input-sm" type="file" id="imgInp" name="file">
                                     </span>
@@ -1725,7 +1725,7 @@
                               <form>
                                 <div class="col-lg-4">
                                   <div class="row" style="text-align: center;">
-                                    <img src="dist/img/simplevia.png" height="120">
+                                    <img src="assets/img/simplevia.png" height="120">
                                     <p>Unit 405, 4F Centerpoint Building<br>Garnet Road cor., J. Vargas Ave.<br>Ortigas Center, Pasig City, 1605</p>
                                   </div>
                                 </div>

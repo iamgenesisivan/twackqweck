@@ -24,5 +24,8 @@ class InventoryController extends Controller
     public function inventoryStock(){
     	return view ('inventory.inventoryStock');
     }
+    public function inventoryDelivery(){
+    	return view ('inventory.delivery');
+    }
 
 }

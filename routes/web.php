@@ -35,6 +35,7 @@ Route::get('/asset_management', array('uses' => 'AssetController@assetManagement
 //InventoryManagement
 Route::get('/inventory_management', array('uses' => 'InventoryController@inventoryManagement', 'as' => 'inventoryManagement'));
 Route::get('inventory_stock', array('uses' => 'InventoryController@inventoryStock', 'as' => 'inventoryStock'));
+Route::get('/inventory_delivery', array('uses' => 'InventoryController@inventoryDelivery', 'as' => 'inventoryDelivery'));
 
 //EPODManagement
 Route::get('/epod_Management', array('uses' => 'EpodController@epodManagement', 'as' => 'epodManagement'));
